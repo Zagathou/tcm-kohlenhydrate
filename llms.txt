@@ -6,62 +6,62 @@ Eine einzelne statische Seite (https://zagathou.github.io/tcm-kohlenhydrate/) mi
 
 ## Dateien
 
-- [Webseite (HTML)](https://zagathou.github.io/tcm-kohlenhydrate/): alle Einträge als Karten, ohne JavaScript
-- [llms-full.txt](https://zagathou.github.io/tcm-kohlenhydrate/llms-full.txt): alle 40 Einträge als reiner Text
+- [WEBSEITE (HTML)](https://zagathou.github.io/tcm-kohlenhydrate/): alle Einträge als Karten, ohne JavaScript
+- [LLMS-FULL.TXT](https://zagathou.github.io/tcm-kohlenhydrate/llms-full.txt): alle 40 Einträge als reiner Text
 
 ## Einträge nach Kategorie
 
 ### Getreide & Pseudogetreide (25)
 
-- [Amaranth](https://zagathou.github.io/tcm-kohlenhydrate/#amaranth): Amaranthus caudatus
-- [Buchweizen](https://zagathou.github.io/tcm-kohlenhydrate/#buchweizen): Fagopyrum esculentum
-- [Congee](https://zagathou.github.io/tcm-kohlenhydrate/#congee)
-- [Dinkel](https://zagathou.github.io/tcm-kohlenhydrate/#dinkel): Triticum spelta
-- [Gerste](https://zagathou.github.io/tcm-kohlenhydrate/#gerste): Hordeum vulgare
-- [Gerste, gekeimt und gedarrt](https://zagathou.github.io/tcm-kohlenhydrate/#gerste-gekeimt-und-gedarrt): Hordeum vulgare
-- [Grünkern](https://zagathou.github.io/tcm-kohlenhydrate/#gruenkern)
-- [Hafer, Getreide](https://zagathou.github.io/tcm-kohlenhydrate/#hafer-getreide): Avena sativa, Getreide
-- [Hafertau](https://zagathou.github.io/tcm-kohlenhydrate/#hafertau)
-- [Hirse](https://zagathou.github.io/tcm-kohlenhydrate/#hirse): Panicum miliaceum
-- [Mais, Getreide](https://zagathou.github.io/tcm-kohlenhydrate/#mais-getreide): Zea mays, Getreide
-- [Quinoa](https://zagathou.github.io/tcm-kohlenhydrate/#quinoa): chenopodium quinoa
-- [Reis, Basmati, Vollkorn](https://zagathou.github.io/tcm-kohlenhydrate/#reis-basmati-vollkorn): Oryza sativa
-- [Reis, gekeimt](https://zagathou.github.io/tcm-kohlenhydrate/#reis-gekeimt): Oryza sativa
-- [Reis, Langkorn, Vollkorn](https://zagathou.github.io/tcm-kohlenhydrate/#reis-langkorn-vollkorn): Oryza sativa
-- [Reis, Rundkorn, Vollkorn](https://zagathou.github.io/tcm-kohlenhydrate/#reis-rundkorn-vollkorn): Oryza sativa
-- [Reis, Süssreis, Mochi, Vollkorn](https://zagathou.github.io/tcm-kohlenhydrate/#reis-suessreis-mochi-vollkorn): Oryza sativa
-- [Reis, weiss, poliert](https://zagathou.github.io/tcm-kohlenhydrate/#reis-weiss-poliert): Oryza sativa, poliert
-- [Reis, Wildreis](https://zagathou.github.io/tcm-kohlenhydrate/#reis-wildreis): Zizania aquatica
-- [Roggen](https://zagathou.github.io/tcm-kohlenhydrate/#roggen): Secale cereale
-- [Weizen](https://zagathou.github.io/tcm-kohlenhydrate/#weizen): Triticum aestivum
-- [Weizen, gekeimt](https://zagathou.github.io/tcm-kohlenhydrate/#weizen-gekeimt): Triticum aestivum, gekeimt
-- [Weizen, leicht angekeimt und gedarrt](https://zagathou.github.io/tcm-kohlenhydrate/#weizen-leicht-angekeimt-und-gedarrt)
-- [Weizenkleie](https://zagathou.github.io/tcm-kohlenhydrate/#weizenkleie)
-- [Weizenmehl, weiss](https://zagathou.github.io/tcm-kohlenhydrate/#weizenmehl-weiss): Triticum aestivum
+- [AMARANTH](https://zagathou.github.io/tcm-kohlenhydrate/#amaranth): Amaranthus caudatus
+- [BUCHWEIZEN](https://zagathou.github.io/tcm-kohlenhydrate/#buchweizen): Fagopyrum esculentum
+- [CONGEE](https://zagathou.github.io/tcm-kohlenhydrate/#congee)
+- [DINKEL](https://zagathou.github.io/tcm-kohlenhydrate/#dinkel): Triticum spelta
+- [GERSTE](https://zagathou.github.io/tcm-kohlenhydrate/#gerste): Hordeum vulgare
+- [GERSTE, GEKEIMT UND GEDARRT](https://zagathou.github.io/tcm-kohlenhydrate/#gerste-gekeimt-und-gedarrt): Hordeum vulgare
+- [GRÜNKERN](https://zagathou.github.io/tcm-kohlenhydrate/#gruenkern)
+- [HAFER, GETREIDE](https://zagathou.github.io/tcm-kohlenhydrate/#hafer-getreide): Avena sativa, Getreide
+- [HAFERTAU](https://zagathou.github.io/tcm-kohlenhydrate/#hafertau)
+- [HIRSE](https://zagathou.github.io/tcm-kohlenhydrate/#hirse): Panicum miliaceum
+- [MAIS, GETREIDE](https://zagathou.github.io/tcm-kohlenhydrate/#mais-getreide): Zea mays, Getreide
+- [QUINOA](https://zagathou.github.io/tcm-kohlenhydrate/#quinoa): chenopodium quinoa
+- [REIS, BASMATI, VOLLKORN](https://zagathou.github.io/tcm-kohlenhydrate/#reis-basmati-vollkorn): Oryza sativa
+- [REIS, GEKEIMT](https://zagathou.github.io/tcm-kohlenhydrate/#reis-gekeimt): Oryza sativa
+- [REIS, LANGKORN, VOLLKORN](https://zagathou.github.io/tcm-kohlenhydrate/#reis-langkorn-vollkorn): Oryza sativa
+- [REIS, RUNDKORN, VOLLKORN](https://zagathou.github.io/tcm-kohlenhydrate/#reis-rundkorn-vollkorn): Oryza sativa
+- [REIS, SÜSSREIS, MOCHI, VOLLKORN](https://zagathou.github.io/tcm-kohlenhydrate/#reis-suessreis-mochi-vollkorn): Oryza sativa
+- [REIS, WEISS, POLIERT](https://zagathou.github.io/tcm-kohlenhydrate/#reis-weiss-poliert): Oryza sativa, poliert
+- [REIS, WILDREIS](https://zagathou.github.io/tcm-kohlenhydrate/#reis-wildreis): Zizania aquatica
+- [ROGGEN](https://zagathou.github.io/tcm-kohlenhydrate/#roggen): Secale cereale
+- [WEIZEN](https://zagathou.github.io/tcm-kohlenhydrate/#weizen): Triticum aestivum
+- [WEIZEN, GEKEIMT](https://zagathou.github.io/tcm-kohlenhydrate/#weizen-gekeimt): Triticum aestivum, gekeimt
+- [WEIZEN, LEICHT ANGEKEIMT UND GEDARRT](https://zagathou.github.io/tcm-kohlenhydrate/#weizen-leicht-angekeimt-und-gedarrt)
+- [WEIZENKLEIE](https://zagathou.github.io/tcm-kohlenhydrate/#weizenkleie)
+- [WEIZENMEHL, WEISS](https://zagathou.github.io/tcm-kohlenhydrate/#weizenmehl-weiss): Triticum aestivum
 
 ### Teigwaren (1)
 
-- [Buchweizen-Nudeln](https://zagathou.github.io/tcm-kohlenhydrate/#buchweizen-nudeln)
+- [BUCHWEIZEN-NUDELN](https://zagathou.github.io/tcm-kohlenhydrate/#buchweizen-nudeln)
 
 ### Knollen & stärkehaltige Lebensmittel (6)
 
-- [Erdmandel](https://zagathou.github.io/tcm-kohlenhydrate/#erdmandel): Cyperus esculentus subs aureus Ten.
-- [Kartoffel](https://zagathou.github.io/tcm-kohlenhydrate/#kartoffel): Solanum tuberosum
-- [Kuzu](https://zagathou.github.io/tcm-kohlenhydrate/#kuzu): Pueraria spec.
-- [Mais, Zuckermais](https://zagathou.github.io/tcm-kohlenhydrate/#mais-zuckermais): Zea mays, Zucker
-- [Marroni](https://zagathou.github.io/tcm-kohlenhydrate/#marroni): Castanea sativa
-- [Süsskartoffel](https://zagathou.github.io/tcm-kohlenhydrate/#suesskartoffel): Ipomoea batatas
+- [ERDMANDEL](https://zagathou.github.io/tcm-kohlenhydrate/#erdmandel): Cyperus esculentus subs aureus Ten.
+- [KARTOFFEL](https://zagathou.github.io/tcm-kohlenhydrate/#kartoffel): Solanum tuberosum
+- [KUZU](https://zagathou.github.io/tcm-kohlenhydrate/#kuzu): Pueraria spec.
+- [MAIS, ZUCKERMAIS](https://zagathou.github.io/tcm-kohlenhydrate/#mais-zuckermais): Zea mays, Zucker
+- [MARRONI](https://zagathou.github.io/tcm-kohlenhydrate/#marroni): Castanea sativa
+- [SÜSSKARTOFFEL](https://zagathou.github.io/tcm-kohlenhydrate/#suesskartoffel): Ipomoea batatas
 
 ### Zucker & Süssungsmittel (8)
 
-- [Ahornsirup](https://zagathou.github.io/tcm-kohlenhydrate/#ahornsirup): Acer saccharum
-- [Birnendicksaft](https://zagathou.github.io/tcm-kohlenhydrate/#birnendicksaft): Pyrus communis
-- [Honig](https://zagathou.github.io/tcm-kohlenhydrate/#honig): Mel
-- [Malz](https://zagathou.github.io/tcm-kohlenhydrate/#malz): Hordeum vulgare
-- [Melasse, schwarz](https://zagathou.github.io/tcm-kohlenhydrate/#melasse-schwarz): Beta vulgaris
-- [Stevia](https://zagathou.github.io/tcm-kohlenhydrate/#stevia): Stevia rebaudians
-- [Zucker, Vollwertzucker](https://zagathou.github.io/tcm-kohlenhydrate/#zucker-vollwertzucker)
-- [Zucker, weiss](https://zagathou.github.io/tcm-kohlenhydrate/#zucker-weiss)
+- [AHORNSIRUP](https://zagathou.github.io/tcm-kohlenhydrate/#ahornsirup): Acer saccharum
+- [BIRNENDICKSAFT](https://zagathou.github.io/tcm-kohlenhydrate/#birnendicksaft): Pyrus communis
+- [HONIG](https://zagathou.github.io/tcm-kohlenhydrate/#honig): Mel
+- [MALZ](https://zagathou.github.io/tcm-kohlenhydrate/#malz): Hordeum vulgare
+- [MELASSE, SCHWARZ](https://zagathou.github.io/tcm-kohlenhydrate/#melasse-schwarz): Beta vulgaris
+- [STEVIA](https://zagathou.github.io/tcm-kohlenhydrate/#stevia): Stevia rebaudians
+- [ZUCKER, VOLLWERTZUCKER](https://zagathou.github.io/tcm-kohlenhydrate/#zucker-vollwertzucker)
+- [ZUCKER, WEISS](https://zagathou.github.io/tcm-kohlenhydrate/#zucker-weiss)
 
 ## Autor
 
@@ -70,14 +70,17 @@ Eine einzelne statische Seite (https://zagathou.github.io/tcm-kohlenhydrate/) mi
 - Session-ID: 055065749fb6c6c2f07cb2ed15021b88eed3fc480e87215cca925ede91454e7173
 - Website: https://freyna.org/
 - GitHub: https://github.com/Zagathou
+- About: https://zagathou.github.io/zagathou/
 
 ## Weitere Seiten
 
-- [TCM Gewürze](https://zagathou.github.io/tcm-gewuerze/)
-- [TCM Proteine](https://zagathou.github.io/tcm-proteine/)
-- [TCM Fette](https://zagathou.github.io/tcm-fette/)
-- [TCM Heilkräuter](https://zagathou.github.io/tcm-heilkraeuter/)
+- [TCM GEWÜRZE](https://zagathou.github.io/tcm-gewuerze/)
+- [TCM PROTEINE](https://zagathou.github.io/tcm-proteine/)
+- [TCM FETTE](https://zagathou.github.io/tcm-fette/)
+- [TCM HEILKRÄUTER](https://zagathou.github.io/tcm-heilkraeuter/)
 
 ## Quelle
 
-- [therapeutika.ch](https://www.therapeutika.ch/)
+- [THERAPEUTIKA.CH](https://www.therapeutika.ch/)
+
+Last Updated: 01.10.2026
